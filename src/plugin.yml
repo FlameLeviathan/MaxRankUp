@@ -1,0 +1,10 @@
+name: MaxRankUp
+main: me.FlameKnight15.MaxRankUp.Main
+version: 2.17.15
+author: FlameKnight15
+depend: [Vault, EZPrestige, CMI]
+commands:
+   maxrankup:
+      description: Ranks you up to the highest rank you can go
+      usage: /maxrankup
+      aliases: [mru]
